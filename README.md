@@ -2,7 +2,7 @@
 
 <div style = "Text-align:Justify">
 
-**Purdue University **
+**Purdue University**
 
 **Instructor:** Dr. Venkatesh Merwade
 
